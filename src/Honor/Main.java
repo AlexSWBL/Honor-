@@ -1,5 +1,6 @@
+package honor;
+
 import java.util.*;
-import honor.*;
 
 public class Main {
     static ArrayList<Hero> heroArrayList = new ArrayList<>();
